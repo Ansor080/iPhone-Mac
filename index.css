@@ -1,0 +1,114 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+.img {
+    width: 700px;
+    height: 600px;
+    background-image: url('https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-15-pro-model-unselect-gallery-1-202309?wid=5120&hei=2880&fmt=webp&qlt=70&.v=UW1GeTRObi9UaVF4S3FUNERNMWVhZ2FRQXQ2R0JQTk5udUZxTkR3ZVlpSmVJdk5rWHR5c3l5ME9ZNVV1Y1o0SjBoUVhuTWlrY2hIK090ZGZZbk9HeE1xUVVnSHY5eU9CcGxDMkFhalkvT0Q5QmVFZ0s0ZTVTcDJpVVJkaDNNVDdmbW94YnYxc1YvNXZ4emJGL0IxNFp3PT0=&traceId=1');
+    background-size: cover;
+    background-position: center;
+    transition: .5s ease;
+    margin-bottom: 50px;
+}
+
+
+
+/* img {
+    max-width: 100%;
+} */
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.hr {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.hr a {
+    text-decoration: none;
+    color: black;
+}
+
+.hhhh {
+    display: flex;
+    gap: 10px; 
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.hhhh img  {
+    margin-left: 10px;
+}
+
+.hhhh h1 {
+    font-size: 10px;
+}
+
+.deals {
+    font-size: 20px;
+}
+
+.buy {
+    margin-top: 55px;
+    margin-bottom: 60px;
+    
+}
+
+.buy h3 {
+    font-size: 45px;
+}
+
+.buy p {
+    margin-top: 15px;
+    font-size: 13px;
+}
+
+.photo button {
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.fhfhfh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+    flex-direction: column;
+    margin-left: 45px;
+}
+
+.btn h4 {
+    font-size: 40px;
+}
+
+.btn p {
+    font-size: 25px;
+}
+
+.btns {
+    border-radius: 10px;
+    width: 75px;
+    height: 35px;
+    display: flex;
+    gap: 10px; 
+}
+
+
+.btn span {
+    font-size: 25px;
+}
